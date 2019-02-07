@@ -1,0 +1,63 @@
+{
+"card1":[{
+  "image":"image/profile1.png",
+  "name":"krishna",
+  "occ":"student",
+  "profile":"profile"
+},
+ {
+  "image":"image/profile1.png",
+  "name":"leela",
+  "occ":"student",
+  "profile":"profile"
+}
+],
+"personalDetails":{
+  "image":"image/profile1.png",
+  "myname":"krishna",
+  "designation":"student",
+  "fname":"d/o achhiya",
+  "email":"keerthikunamaneni@gmail.com",
+  "phoneno":"9133937024",
+  "address":"address"
+},
+  "CAREEROBJECTIVE":
+  {
+    "obj":"CAREER OBJECTIVE",
+    "co":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+  },
+  "edu1": [{
+    "qualification":"Graduation",
+    "inst":" bachelor of techonology (computer science),Qis college of engineering and techonology,ongole,prakasam district,secured 85% marks."
+  },
+  {
+    "qualification":"Intermediate",
+    "inst":"Board of intermidate,ummamaheswara junior college,ongole,prakasam,secured 951 marks."
+  },
+  {
+    "qualification":"Ssc",
+    "inst":"Board of secondary,Z.P.H School,chanduluru,panguluru mandal,prakasam,secured 9.5 CGPA."
+  }
+],
+  "TECHNICALSKILLS":[{
+    "name":"programming languages",
+    "org":" c,java,html."
+  },
+  {
+    "name":"operating system",
+    "org" :" UNIX"
+  }
+],
+
+  "ACHEIVEMENTS":
+  {
+    "awdname":"ACHEIVEMENTS",
+    "achive":" diaster management certificate,qis college of engineering and techonology,ongole,prakasam."
+  },
+
+  "HOBBIES":
+  {
+    "hobbiesName":"HOBBIES",
+    "hobbie":"watching tv,listening music."
+}
+}
